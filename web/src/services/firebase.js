@@ -2,11 +2,11 @@ import firebase from "firebase";
 import moment from 'moment'
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBl6RQApdol4vRWOBcRR139HkSf7Asf2sU",
-    authDomain: "dorywczo-8ae4b.firebaseapp.com",
-    databaseURL: "https://dorywczo-8ae4b.firebaseio.com",
-    storageBucket: "dorywczo-8ae4b.appspot.com",
-    messagingSenderId: "57896272854"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    storageBucket: "",
+    messagingSenderId: ""
 };
 
 export const firebaseApp = firebase.initializeApp(firebaseConfig);

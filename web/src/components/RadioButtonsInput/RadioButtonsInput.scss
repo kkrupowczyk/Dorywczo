@@ -1,0 +1,94 @@
+.btn-tag {
+  color: #4484CE;
+  background-color: #FFFFFF;
+  border-color: #4484CE;
+}
+
+.btn-tag:hover,
+.btn-tag:focus,
+.btn-tag:active,
+.btn-tag.active,
+.open .dropdown-toggle.btn-tag {
+  color: #ffffff;
+  background-color: #4484CE;
+  border-color: #4484CE;
+}
+
+.btn-tag:active,
+.btn-tag.active,
+.open .dropdown-toggle.btn-tag {
+  color: #fff;
+  background-image: none;
+}
+
+.btn-tag.disabled,
+.btn-tag[disabled],
+fieldset[disabled] .btn-tag,
+.btn-tag.disabled:hover,
+.btn-tag[disabled]:hover,
+fieldset[disabled] .btn-tag:hover,
+.btn-tag.disabled:focus,
+.btn-tag[disabled]:focus,
+fieldset[disabled] .btn-tag:focus,
+.btn-tag.disabled:active,
+.btn-tag[disabled]:active,
+fieldset[disabled] .btn-tag:active,
+.btn-tag.disabled.active,
+.btn-tag[disabled].active,
+fieldset[disabled] .btn-tag.active {
+  background-color: #FFFFFF;
+  border-color: #4484CE;
+}
+
+.btn-tag .badge {
+  color: #FFFFFF;
+  background-color: #000000;
+}
+
+//-------------------------------------
+
+.btn-tag-error {
+  color: #A94442;
+  background-color: #FFFFFF;
+  border-color: #A94442;
+}
+
+.btn-tag-error:hover,
+.btn-tag-error:focus,
+.btn-tag-error:active,
+.btn-tag-error.active,
+.open .dropdown-toggle.btn-tag-error {
+  color: #A94442;
+  background-color: #FFFFFF;
+  border-color: #A94442;
+}
+
+.btn-tag-error:active,
+.btn-tag-error.active,
+.open .dropdown-toggle.btn-tag-error {
+  background-image: none;
+}
+
+.btn-tag-error.disabled,
+.btn-tag-error[disabled],
+fieldset[disabled] .btn-tag-error,
+.btn-tag-error.disabled:hover,
+.btn-tag-error[disabled]:hover,
+fieldset[disabled] .btn-tag-error:hover,
+.btn-tag-error.disabled:focus,
+.btn-tag-error[disabled]:focus,
+fieldset[disabled] .btn-tag-error:focus,
+.btn-tag-error.disabled:active,
+.btn-tag-error[disabled]:active,
+fieldset[disabled] .btn-tag-error:active,
+.btn-tag-error.disabled.active,
+.btn-tag-error[disabled].active,
+fieldset[disabled] .btn-tag-error.active {
+  background-color: #FFFFFF;
+  border-color: #A94442;
+}
+
+.btn-tag-error .badge {
+  color: #FFFFFF;
+  background-color: #A94442;
+}

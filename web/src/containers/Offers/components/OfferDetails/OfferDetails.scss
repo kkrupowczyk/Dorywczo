@@ -1,0 +1,48 @@
+.od-container {
+  margin: 5px;
+  padding: 10px;
+  border: 1px solid #BDBDBD;
+  background-color: #FFFFFF;
+  border-radius: 4px;
+}
+
+.od-title {
+  margin-top: 0.2em;
+  margin-bottom: 5px;
+}
+
+.od-date-container {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.od-date-label {
+  color: #757575;
+  margin-top: 0px;
+  margin-bottom: 2px;
+}
+
+.od-date {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.od-dateCreation {
+  font-size: 16px;
+  color: #757575;
+  background-color: #FAFAFA;
+}
+
+.od-description{
+  color: #757575;
+}
+
+.od-contact{
+  font-size: 16px;
+}
+
+.od-close {
+  float: right;
+  font-size: 20px;
+  color: #757575;
+}

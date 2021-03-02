@@ -1,0 +1,98 @@
+.btn-group, .btn-group-vertical {
+  display: flex;
+}
+
+.btn-drop {
+  color: #4484CE;
+  background-color: #FFFFFF;
+  border-color: #4484CE;
+}
+
+.btn-drop:hover,
+.btn-drop:focus,
+.btn-drop:active,
+.btn-drop.active,
+.open .dropdown-toggle.btn-drop {
+  color: #ffffff;
+  background-color: #4484CE;
+  border-color: #4484CE;
+}
+
+.btn-drop:active,
+.btn-drop.active,
+.open .dropdown-toggle.btn-drop {
+  color: #fff;
+  background-image: none;
+}
+
+.btn-drop.disabled,
+.btn-drop[disabled],
+fieldset[disabled] .btn-drop,
+.btn-drop.disabled:hover,
+.btn-drop[disabled]:hover,
+fieldset[disabled] .btn-drop:hover,
+.btn-drop.disabled:focus,
+.btn-drop[disabled]:focus,
+fieldset[disabled] .btn-drop:focus,
+.btn-drop.disabled:active,
+.btn-drop[disabled]:active,
+fieldset[disabled] .btn-drop:active,
+.btn-drop.disabled.active,
+.btn-drop[disabled].active,
+fieldset[disabled] .btn-drop.active {
+  background-color: #FFFFFF;
+  border-color: #4484CE;
+}
+
+.btn-drop .badge {
+  color: #FFFFFF;
+  background-color: #000000;
+}
+
+// -------------------------------------
+
+.btn-drop-error {
+  color: #A94442;
+  background-color: #FFFFFF;
+  border-color: #A94442;
+}
+
+.btn-drop-error:hover,
+.btn-drop-error:focus,
+.btn-drop-error:active,
+.btn-drop-error.active,
+.open .dropdown-toggle.btn-drop-error {
+  color: #A94442;
+  background-color: #FFFFFF;
+  border-color: #A94442;
+}
+
+.btn-drop-error:active,
+.btn-drop-error.active,
+.open .dropdown-toggle.btn-drop-error {
+  background-image: none;
+}
+
+.btn-drop-error.disabled,
+.btn-drop-error[disabled],
+fieldset[disabled] .btn-drop-error,
+.btn-drop-error.disabled:hover,
+.btn-drop-error[disabled]:hover,
+fieldset[disabled] .btn-drop-error:hover,
+.btn-drop-error.disabled:focus,
+.btn-drop-error[disabled]:focus,
+fieldset[disabled] .btn-drop-error:focus,
+.btn-drop-error.disabled:active,
+.btn-drop-error[disabled]:active,
+fieldset[disabled] .btn-drop-error:active,
+.btn-drop-error.disabled.active,
+.btn-drop-error[disabled].active,
+fieldset[disabled] .btn-drop-error.active {
+  background-color: #FFFFFF;
+  border-color: #A94442;
+}
+
+.btn-drop-error .badge {
+  color: #FFFFFF;
+  background-color: #A94442;
+}

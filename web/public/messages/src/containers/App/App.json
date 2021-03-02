@@ -1,0 +1,26 @@
+[
+  {
+    "id": "app.appName",
+    "defaultMessage": "Dorywczo"
+  },
+  {
+    "id": "app.offers",
+    "defaultMessage": "Offers"
+  },
+  {
+    "id": "app.newOffer",
+    "defaultMessage": "New Offer"
+  },
+  {
+    "id": "app.login",
+    "defaultMessage": "Login"
+  },
+  {
+    "id": "app.contact",
+    "defaultMessage": "Contact"
+  },
+  {
+    "id": "app.logout",
+    "defaultMessage": "Logout"
+  }
+]

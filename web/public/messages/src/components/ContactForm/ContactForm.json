@@ -1,0 +1,34 @@
+[
+  {
+    "id": "contactform.name.placeholder",
+    "defaultMessage": "Type name here"
+  },
+  {
+    "id": "contactform.email.placeholder",
+    "defaultMessage": "Type email"
+  },
+  {
+    "id": "contactform.text.placeholder",
+    "defaultMessage": "Type text"
+  },
+  {
+    "id": "contactform.title",
+    "defaultMessage": "Contact us"
+  },
+  {
+    "id": "contactform.name",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "contactform.email",
+    "defaultMessage": "Email"
+  },
+  {
+    "id": "contactform.text",
+    "defaultMessage": "Text"
+  },
+  {
+    "id": "contactform.submit",
+    "defaultMessage": "Send"
+  }
+]

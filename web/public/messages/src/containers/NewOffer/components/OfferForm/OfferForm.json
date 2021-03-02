@@ -1,0 +1,58 @@
+[
+  {
+    "id": "offerform.title.placeholder",
+    "defaultMessage": "Type title here"
+  },
+  {
+    "id": "offerform.description.placeholder",
+    "defaultMessage": "Type here Description"
+  },
+  {
+    "id": "offerform.salary.placeholder",
+    "defaultMessage": "Type here salary"
+  },
+  {
+    "id": "offerform.address.placeholder",
+    "defaultMessage": "Type here address"
+  },
+  {
+    "id": "offerform.dateDescription.placeholder",
+    "defaultMessage": "Type datedescription here"
+  },
+  {
+    "id": "offerform.dateExpiration.placeholder",
+    "defaultMessage": "Type here dateexpiration"
+  },
+  {
+    "id": "offerform.fbGroupId.titleDefault",
+    "defaultMessage": "Choose option"
+  },
+  {
+    "id": "offerform.title",
+    "defaultMessage": "Title"
+  },
+  {
+    "id": "offerform.description",
+    "defaultMessage": "Description"
+  },
+  {
+    "id": "offerform.location",
+    "defaultMessage": "Choose location"
+  },
+  {
+    "id": "offerform.dateExpiration",
+    "defaultMessage": "Choose date expiration"
+  },
+  {
+    "id": "offerform.fbGroupId",
+    "defaultMessage": "Choose facebook group"
+  },
+  {
+    "id": "offerform.isFBContact",
+    "defaultMessage": "Do you want"
+  },
+  {
+    "id": "offerform.submit",
+    "defaultMessage": "Submit"
+  }
+]

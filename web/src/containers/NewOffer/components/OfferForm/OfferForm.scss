@@ -1,0 +1,59 @@
+.of-submit {
+  width: 25%;
+  margin-left: 37.5%;
+}
+
+.of-container{
+  margin-top: 10px;
+}
+
+.of-isFBContact{
+  margin-top: 0px;
+  margin-bottom: 15px;
+}
+
+.btn-submit {
+  color: #FFFFFF;
+  background-color: #4484CE;
+  border-color: #4484CE;
+}
+
+.btn-submit:hover,
+.btn-submit:focus,
+.btn-submit:active,
+.btn-submit.active,
+.open .dropdown-toggle.btn-submit {
+  color: #FFFFFF;
+  background-color: #4484CE;
+  border-color: #4484CE;
+}
+
+.btn-submit:active,
+.btn-submit.active,
+.open .dropdown-toggle.btn-submit {
+  background-image: none;
+}
+
+.btn-submit.disabled,
+.btn-submit[disabled],
+fieldset[disabled] .btn-submit,
+.btn-submit.disabled:hover,
+.btn-submit[disabled]:hover,
+fieldset[disabled] .btn-submit:hover,
+.btn-submit.disabled:focus,
+.btn-submit[disabled]:focus,
+fieldset[disabled] .btn-submit:focus,
+.btn-submit.disabled:active,
+.btn-submit[disabled]:active,
+fieldset[disabled] .btn-submit:active,
+.btn-submit.disabled.active,
+.btn-submit[disabled].active,
+fieldset[disabled] .btn-submit.active {
+  background-color: #4484CE;
+  border-color: #4484CE;
+}
+
+.btn-submit .badge {
+  color: #4484CE;
+  background-color: #FFFFFF;
+}
